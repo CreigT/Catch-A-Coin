@@ -1,0 +1,6 @@
+{
+  "name": "Catch a Coin",
+  "description": "An underwater HTML5 mobile arcade game sponsored by Creignificent LLC. Move the pirate chest to catch drifting gold, crested, and diamond coins while the purple octopus swims across eating alternate coins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
